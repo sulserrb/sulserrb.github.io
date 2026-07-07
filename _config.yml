@@ -131,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Ben's Blog # blog_name will be displayed in your blog page
+blog_description: This is empty right now - I'll fill it soon!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -227,6 +227,8 @@ include: ["_pages"]
 exclude:
   - al-folio-upgrade-report.md
   - bin/
+  - blog.md
+  - books.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
