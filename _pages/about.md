@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliation: Institute of Ecology and Evolution</a> 
+  <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliation: University of Bern</a> 
   Email: r.benjamin.sulser@unibe.ch
 
 profile:
@@ -29,7 +29,7 @@ latest_posts:
 
 Hello there! My name is Ben Sulser, and I am a postdoctoral scientist and biologist.
 
-I currently work on the [Alaskan Stickleback project](https://alaskastickleback.com/) at the [Institute of Ecology and Evolution, University of Bern](https://www.iee.unibe.ch/).
+I currently work on the [Alaskan Stickleback project](https://alaskastickleback.com/) at the [Division of Evolutionary Ecology, Institute of Ecology and Evolution, University of Bern](https://www.ee.iee.unibe.ch/index_eng.html).
 
 My recent work focuses on building and testing image-analysis pipelines for comparative morphology, alongside broader questions about convergence across the tree of life. Exciting data are on the way....
 
