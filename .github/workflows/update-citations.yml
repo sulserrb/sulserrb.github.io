@@ -7,7 +7,7 @@ on:
     - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
-permissions: 
+permissions:
   contents: write
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
+        # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
         with:
           token: ${{ secrets.PAT }}
 
