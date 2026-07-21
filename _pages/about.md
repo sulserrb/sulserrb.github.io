@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliation: University of Bern</a> 
-  Email: r.benjamin.sulser@unibe.ch
+  | Email: r.benjamin.sulser@unibe.ch
 
 profile:
   align: right
