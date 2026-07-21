@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliations</a> Institute of Ecology and Evolution Baltzerstrasse 6 3012 Bern, Switzerland. Email: r.benjamin.sulser@unibe.ch
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>D310 Institute of Ecology and Evolution</p>
-    <p>Baltzerstrasse 6</p>
-    <p>3012 Bern, Switzerland</p>
+    <p>Working with the semi-annual <i> Nacht Der Forschung </i> </p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,12 +30,12 @@ Hello there! My name is Ben Sulser, and I am a postdoctoral scientist and biolog
 
 I currently work on the [Alaskan Stickleback project](https://alaskastickleback.com/) at the [Institute of Ecology and Evolution, University of Bern](https://www.iee.unibe.ch/).
 
-My recent work focuses on building and testing image-analysis pipelines for comparative morphology, alongside broader questions about convergence across the tree of life. Exciting data are on the way.
+My recent work focuses on building and testing image-analysis pipelines for comparative morphology, alongside broader questions about convergence across the tree of life. Exciting data are on the way....
 
 I am always happy to chat about morphology, especially uCT segmentation, image analysis, and science communication.
 
-## Current Focus
+## Current Projects
 
-- Morphological variation and convergence in sticklebacks
+- Morphological variation and repeated evolution in sticklebacks
 - Reproducible analysis workflows for high-throughput phenotyping
 - Practical tooling for annotation, segmentation, and measurement
