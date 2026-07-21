@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliations</a> Institute of Ecology and Evolution Baltzerstrasse 6 3012 Bern, Switzerland. Email: r.benjamin.sulser@unibe.ch
+subtitle: >
+  <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliations</a>
+  Institute of Ecology and Evolution Baltzerstrasse 6 3012 Bern, Switzerland.
+  Email: r.benjamin.sulser@unibe.ch
 
 profile:
   align: right
