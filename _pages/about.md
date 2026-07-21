@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliations</a>
-  Institute of Ecology and Evolution Baltzerstrasse 6 3012 Bern, Switzerland.
+  <a href="https://www.iee.unibe.ch/" target="_blank" rel="noopener">Affiliation: Institute of Ecology and Evolution</a> 
   Email: r.benjamin.sulser@unibe.ch
 
 profile:
@@ -37,7 +36,7 @@ My recent work focuses on building and testing image-analysis pipelines for comp
 
 I am always happy to chat about morphology, especially uCT segmentation, image analysis, and science communication.
 
-## Current Projects
+## current projects
 
 - Morphological variation and repeated evolution in sticklebacks
 - Reproducible analysis workflows for high-throughput phenotyping
