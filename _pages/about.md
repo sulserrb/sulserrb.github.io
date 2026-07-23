@@ -40,3 +40,5 @@ I am always happy to chat about morphology, especially uCT segmentation, image a
 - Morphological variation and repeated evolution in sticklebacks
 - Reproducible analysis workflows for high-throughput phenotyping
 - Practical tooling for annotation, segmentation, and measurement
+
+{% include figure.liquid loading="eager" path="assets/img/Stickle_Swaps_Cropped.gif" class="img-fluid rounded z-depth-1" alt="Animated overview of stickleback project swaps" %}
