@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sulserrb.github.io//sitemap.xml
+Sitemap: https://bensulser.com/sitemap.xml
