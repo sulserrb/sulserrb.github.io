@@ -9,4 +9,4 @@ github_repos:
   - repo: sulserrb/StickleSnake
     description: A 2D phenotyping pipeline for threespine stickleback specimens built around Snakemake.
   - repo: habi/sticklebacks-manuscript
-    description: Manuscript source, site content, and build outputs for the sticklebacks project.
+    description: Manuscript source, site content, and build outputs for 3D stickleback projects.
