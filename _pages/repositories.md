@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 {% if site.data.repositories.github_users %}
+
 ## GitHub
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
@@ -36,6 +37,7 @@ nav_order: 4
 {% if site.data.repositories.github_users %}
 
 ---
+
 {% endif %}
 
 ## GitHub Repositories
