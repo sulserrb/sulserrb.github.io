@@ -1,8 +1,12 @@
 github_users:
-  - sulserrb
+  - username: sulserrb
+    name: Ben Sulser
+    blurb: GitHub profile for research code, image-analysis pipelines, and website work.
 
 repo_description_lines_max: 2
 
 github_repos:
-  - sulserrb/StickleSnake
-  - habi/sticklebacks-manuscript
+  - repo: sulserrb/StickleSnake
+    description: A 2D phenotyping pipeline for threespine stickleback specimens built around Snakemake.
+  - repo: habi/sticklebacks-manuscript
+    description: Manuscript source, site content, and build outputs for the sticklebacks project.
