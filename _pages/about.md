@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Working with the semi-annual <i> Nacht Der Forschung </i> </p>
+    <p>Working with the semi-annual <i> Nacht der Forschung </i> in Bern </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,9 +31,9 @@ Hello there! My name is Ben Sulser, and I am a postdoctoral scientist and biolog
 
 I currently work on the [Alaskan Stickleback project](https://alaskastickleback.com/) at the [Division of Evolutionary Ecology, Institute of Ecology and Evolution, University of Bern](https://www.ee.iee.unibe.ch/index_eng.html).
 
-My recent work focuses on building and testing image-analysis pipelines for comparative morphology, alongside broader questions about convergence across the tree of life. Exciting data are on the way....
+My recent work focuses on building and testing image-analysis pipelines for comparative morphology, alongside asking broader questions about convergence across the tree of life. Exciting data are on the way....
 
-I am always happy to chat about morphology, especially uCT segmentation, image analysis, and science communication.
+I am always happy to chat about morphology (especially uCT segmentation), image analysis, and science communication.
 
 ## current projects
 
@@ -41,4 +41,4 @@ I am always happy to chat about morphology, especially uCT segmentation, image a
 - Reproducible analysis workflows for high-throughput phenotyping
 - Practical tooling for annotation, segmentation, and measurement
 
-{% include figure.liquid loading="eager" path="assets/img/Stickle_Swaps_Cropped.gif" class="img-fluid rounded z-depth-1" alt="Animated overview of stickleback project swaps" %}
+{% include figure.liquid loading="eager" path="assets/img/Stickle_Swaps_Cropped.gif" class="img-fluid rounded z-depth-1" alt="Animated overview of stickleback project morphology" %}
